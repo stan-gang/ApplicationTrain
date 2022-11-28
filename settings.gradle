@@ -15,3 +15,7 @@ dependencyResolutionManagement {
 rootProject.name = "ApplicationTrain"
 include ':app'
 include ':storetest'
+include ':notified'
+include ':tintlayout'
+include ':components'
+include ':customview'

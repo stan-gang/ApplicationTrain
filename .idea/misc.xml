@@ -4,7 +4,27 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Software/Android/AndroidStudioProjects/ApplicationTrain/app/src/main/res/layout/activity_main.xml" value="0.2875905797101449" />
+        <entry key="..\:/Software/Android/AndroidStudioProjects/ApplicationTrain/components/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Software/Android/AndroidStudioProjects/ApplicationTrain/components/src/main/res/layout/activity_second.xml" value="0.18020833333333333" />
+        <entry key="..\:/Software/Android/AndroidStudioProjects/ApplicationTrain/customview/src/main/res/drawable/shape_circle_read.xml" value="0.1" />
+        <entry key="..\:/Software/Android/AndroidStudioProjects/ApplicationTrain/customview/src/main/res/drawable/shape_circle_white.xml" value="0.1" />
+        <entry key="..\:/Software/Android/AndroidStudioProjects/ApplicationTrain/customview/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Software/Android/AndroidStudioProjects/ApplicationTrain/customview/src/main/res/layout/activity_suer_main.xml" value="0.1" />
+        <entry key="..\:/Software/Android/AndroidStudioProjects/ApplicationTrain/customview/src/main/res/layout/item_pager.xml" value="0.17274569402228976" />
+        <entry key="..\:/Software/Android/AndroidStudioProjects/ApplicationTrain/customview/src/main/res/layout/layout_looper_view.xml" value="0.25" />
+        <entry key="..\:/Software/Android/AndroidStudioProjects/ApplicationTrain/notified/src/main/res/layout/activity_main.xml" value="0.18072916666666666" />
         <entry key="..\:/Software/Android/AndroidStudioProjects/ApplicationTrain/storetest/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Software/Android/AndroidStudioProjects/ApplicationTrain/tintlayout/src/main/res/drawable/bg.xml" value="0.1775" />
+        <entry key="..\:/Software/Android/AndroidStudioProjects/ApplicationTrain/tintlayout/src/main/res/drawable/bg_selector.xml" value="0.1" />
+        <entry key="..\:/Software/Android/AndroidStudioProjects/ApplicationTrain/tintlayout/src/main/res/drawable/ic_icon___.xml" value="0.1645" />
+        <entry key="..\:/Software/Android/AndroidStudioProjects/ApplicationTrain/tintlayout/src/main/res/drawable/ic_icon_kefu.xml" value="0.1" />
+        <entry key="..\:/Software/Android/AndroidStudioProjects/ApplicationTrain/tintlayout/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Software/Android/AndroidStudioProjects/ApplicationTrain/tintlayout/src/main/res/drawable/ico.xml" value="0.1" />
+        <entry key="..\:/Software/Android/AndroidStudioProjects/ApplicationTrain/tintlayout/src/main/res/drawable/ico2.xml" value="0.1" />
+        <entry key="..\:/Software/Android/AndroidStudioProjects/ApplicationTrain/tintlayout/src/main/res/drawable/ico_selector.xml" value="0.1" />
+        <entry key="..\:/Software/Android/AndroidStudioProjects/ApplicationTrain/tintlayout/src/main/res/layout/activity_main.xml" value="0.35520833333333335" />
+        <entry key="..\:/Software/Android/AndroidStudioProjects/ApplicationTrain/tintlayout/src/main/res/layout/example.xml" value="0.2905982905982906" />
+        <entry key="..\:/Software/Android/AndroidStudioProjects/ApplicationTrain/tintlayout/src/main/res/layout/item.xml" value="0.2346014492753623" />
       </map>
     </option>
   </component>

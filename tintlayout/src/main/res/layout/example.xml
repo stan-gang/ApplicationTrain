@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:sob="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.example.tintlayout.MyView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        sob:borderWidth="5dp"
+        sob:radius="4dp"
+        sob:showBorder="true" />
+</LinearLayout>

@@ -53,6 +53,11 @@ public class MainActivity extends AppCompatActivity {
 
 
     private void filestore(){
+        /*
+        * new、初始化、写、
+        * data/data/包名/files
+        */
+
         FileOutputStream outputStream = null;
         try {
             outputStream = openFileOutput("in_file.txt",Context.MODE_PRIVATE);
@@ -113,6 +118,11 @@ public class MainActivity extends AppCompatActivity {
     }
     private void dbstore(){}
     private void exstore(){
+        /*
+        * 公共且随应用卸载而删除，路径一：storage/sdcard/Android/data/package/files/xxx
+        * 路径二：storage/sdcard/xxx/xxx  与内部存储一样
+        */
+
         if (Environment.getExternalStorageState().equals(Environment.MEDIA_MOUNTED)) { //sd卡处于挂载状态
             String fileName = "";
             File externalFilesDir = this.getExternalFilesDir(null);//目录
